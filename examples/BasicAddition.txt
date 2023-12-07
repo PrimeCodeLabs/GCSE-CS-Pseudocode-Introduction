@@ -1,0 +1,6 @@
+BEGIN
+    SET num1 TO 5
+    SET num2 TO 10
+    SET sum TO num1 + num2
+    DISPLAY sum
+END
