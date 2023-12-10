@@ -15,6 +15,3 @@ This repository is designed for GCSE Computer Science students to learn and prac
 
 ## Assignment Submission
 Follow the instructions in the AssignmentDetails.md file for completing and submitting your assignment.
-
-## Contact
-For any queries, please contact [Instructor's Contact Information].
